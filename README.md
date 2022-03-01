@@ -1,7 +1,9 @@
 # hacktoberfest-2021
+
 repositorio para o hacktoberfest 2021
 
 ## Lista dos safados
+
 1. Vinicius
 2. Walmir
 3. Sandro
@@ -10,3 +12,4 @@ repositorio para o hacktoberfest 2021
 6. Douglas
 7. Wellison
 8. Clarkito
+9. Edilson
